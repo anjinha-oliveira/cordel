@@ -4,13 +4,42 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 
-
-
 header {
     background-color: black;
     color: white;
     margin: -8px;
-    height: 210px;
-    padding: 13px;
+    height: 157px;
+    padding: 17px;
     text-align: center;
 }
+
+h1 {
+    font-family: 'Passion One';
+    font-size: 39px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+}
+
+h2{
+    font-family: 'Passion One';
+    font-size: large;
+    font-weight: normal;
+    letter-spacing: 2px;
+    margin: 4px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    letter-spacing: 2px;
+}
+ article > p {
+    font-family: 'Sriracha';
+    padding: 41px 9px 41px;
+    font-size: 23px;
+    line-height: 44px;
+    font-weight: bolder;
+
+ }
