@@ -43,8 +43,16 @@ a {
     font-weight: bolder;
 }
 
-p.flowers {
+div {
+    padding: 16px 25px 41px;
+}
+div > p.flowers {
+    font-family: 'Sriracha';
+    font-weight: bolder;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.389);
     line-height: 30px;
     font-size: medium;
-    padding: 41px 9px 41px;
+    padding: 28px 10px 79px 4px;
+    
 }
