@@ -8,14 +8,14 @@ header {
     background-color: black;
     color: white;
     margin: -8px;
-    height: 157px;
-    padding: 17px;
+    min-height: 200px;
+    padding: 25px;
     text-align: center;
 }
 
 h1 {
     font-family: 'Passion One';
-    font-size: 39px;
+    font-size: xxx-large;
     font-weight: bolder;
     letter-spacing: 2px;
     margin-bottom: 10px;
