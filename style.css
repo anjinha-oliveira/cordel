@@ -34,7 +34,13 @@ a {
     text-decoration: none;
     color: white;
     letter-spacing: 2px;
+    font-weight: bolder;
 }
+
+h2 > a:hover {
+    text-decoration: underline ;
+}
+
  article > p {
     font-family: 'Sriracha';
     padding: 41px 9px 41px;
@@ -63,10 +69,13 @@ div > p.flowers {
     padding: 28px 10px 79px 4px;
 }
 
-footer > p {
-    color: black;
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: normal;
 }
 
-a.github {
-    color: black;
+footer > a:hover {
+    text-decoration: underline;
 }
