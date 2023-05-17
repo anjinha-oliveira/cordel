@@ -61,5 +61,12 @@ div > p.flowers {
     line-height: 30px;
     font-size: medium;
     padding: 28px 10px 79px 4px;
-    
+}
+
+footer > p {
+    color: black;
+}
+
+a.github {
+    color: black;
 }
