@@ -55,7 +55,7 @@ div.background-flower {
     background-color: rgb(6, 39, 6);
     background-image: url(imagens/background001.jpg);
     background-repeat: no-repeat;
-    background-position: top center;
+    background-position: right center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -68,6 +68,7 @@ div > p.flowers {
     line-height: 10vw;
     font-size: 4vw;
     padding: 4px 42px 40px 16px;
+    text-shadow: 2px 2px 0px #000000d9;
 }
 
 div.background-cartas {
@@ -88,6 +89,7 @@ div > p.cartas {
     line-height: 10vw;
     font-size: 4vw;
     padding: 4px 42px 40px 16px;
+    text-shadow: 2px 2px 0px #000000d9;
 }
 
 footer {
