@@ -4,9 +4,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 
-body {
-    background-color: rgba(221, 215, 215, 0.511);
-}
 
 header {
     background-color: black;
@@ -48,8 +45,8 @@ h2 > a:hover {
  article > p {
     font-family: 'Sriracha';
     padding: 41px 9px 41px;
-    font-size: 23px;
-    line-height: 44px;
+    font-size: 5vw;
+    line-height: 10vw;
     font-weight: bolder;
 }
 
@@ -68,8 +65,8 @@ div > p.flowers {
     font-weight: bolder;
     color: white;
     background-color: rgba(0, 0, 0, 0.389);
-    line-height: 30px;
-    font-size: medium;
+    line-height: 10vw;
+    font-size: 4vw;
     padding: 28px 10px 79px 4px;
 }
 
