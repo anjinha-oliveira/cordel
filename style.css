@@ -4,6 +4,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 
+body {
+    background-color: rgba(221, 215, 215, 0.511);
+}
+
 header {
     background-color: black;
     color: white;
