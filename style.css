@@ -50,7 +50,7 @@ h2 > a:hover {
     font-weight: bolder;
 }
 
-div.flowers-background {
+div.background-flower {
     padding: 16px 25px 41px;
     background-color: rgb(6, 39, 6);
     background-image: url(imagens/background001.jpg);
@@ -67,7 +67,27 @@ div > p.flowers {
     background-color: rgba(0, 0, 0, 0.389);
     line-height: 10vw;
     font-size: 4vw;
-    padding: 28px 10px 79px 4px;
+    padding: 4px 42px 40px 16px;
+}
+
+div.background-cartas {
+    padding: 16px 25px 41px;
+    background-color: rgb(6, 39, 6);
+    background-image: url(imagens/background002.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+div > p.cartas {
+    font-family: 'Sriracha';
+    font-weight: bolder;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.389);
+    line-height: 10vw;
+    font-size: 4vw;
+    padding: 4px 42px 40px 16px;
 }
 
 footer {
