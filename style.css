@@ -58,6 +58,7 @@ div.background-flower {
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: inset 6px 6px 13px 0px #000000d4;
 }
 
 div > p.flowers {
@@ -73,12 +74,13 @@ div > p.flowers {
 
 div.background-cartas {
     padding: 16px 25px 41px;
-    background-color: rgb(6, 39, 6);
+    background-color: #bdbda9;
     background-image: url(imagens/background002.jpg);
     background-repeat: no-repeat;
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: inset 6px 6px 13px 0px #000000d4;
 }
 
 div > p.cartas {
